@@ -1,6 +1,6 @@
 ### Hi there 👋, mein Name ist Amir
 #### Ich bin ein angehender Full-Stack Developer
-![Ich bin ein angehender Full-Stack Developer](https://christopher.in/assets/images/hello-world.png)
+![Ich bin ein angehender Full-Stack Developer](https://github.com/AmirOnCode/AmirOnCode/blob/main/hello-world.png)
 
 🚀 Als 21-Jähriger in der Softwareentwicklungs-Ausbildung bei CodersBay fühle ich mich genau am richtigen Ort. Jede Code-Zeile entfacht eine Begeisterung in mir, übertroffen nur von meiner Leidenschaft für Technologie und IT. 💡
 
