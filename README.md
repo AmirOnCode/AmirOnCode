@@ -1,6 +1,6 @@
 ### Hi there 👋, mein Name ist Amir
 #### Ich bin ein angehender Full-Stack Developer
-![Ich bin ein angehender Full-Stack Developer](http://www.codeit.kr/)
+![Ich bin ein angehender Full-Stack Developer](https://christopher.in/assets/images/hello-world.png)
 
 🚀 Als 21-Jähriger in der Softwareentwicklungs-Ausbildung bei CodersBay fühle ich mich genau am richtigen Ort. Jede Code-Zeile entfacht eine Begeisterung in mir, übertroffen nur von meiner Leidenschaft für Technologie und IT. 💡
 
@@ -33,19 +33,3 @@ Skills: Java / SQL / JS / HTML / CSS
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=AmirOnCode)  
 
-
-
-<!--
-**AmirOnCode/AmirOnCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
