@@ -1,6 +1,6 @@
 ### Hi there 👋, mein Name ist Amir
 #### Ich bin ein angehender Full-Stack Developer
-![Ich bin ein angehender Full-Stack Developer](https://www.wallpaperflare.com/static/134/144/1/text-simple-background-black-hello-wallpaper.jpg)
+![Ich bin ein angehender Full-Stack Developer](http://www.codeit.kr/)
 
 🚀 Als 21-Jähriger in der Softwareentwicklungs-Ausbildung bei CodersBay fühle ich mich genau am richtigen Ort. Jede Code-Zeile entfacht eine Begeisterung in mir, übertroffen nur von meiner Leidenschaft für Technologie und IT. 💡
 
