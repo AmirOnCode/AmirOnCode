@@ -19,7 +19,13 @@ Skills: Java / SQL / JS / HTML / CSS
 
 - 🔭 I’m currently working on Coders.Bay Ausbildung 
 - 🌱 I’m currently learning Java 
-- ⚡ Fun fact: I code with a rubber duck watching me 
+- ⚡ Fun fact: I code with a rubber duck watching me
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/amir-nasiri-8759a0304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amir-nasiri-8759a0304" height="30" width="40" /></a>
+<a href="https://instagram.com/am.ns63" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="am.ns63" height="30" width="40" /></a>
+</p>
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AmirOnCode)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/amir-nasiri-8759a0304/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/am.ns63/)  
@@ -34,9 +40,3 @@ Skills: Java / SQL / JS / HTML / CSS
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=AmirOnCode)  
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/amir-nasiri-8759a0304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amir-nasiri-8759a0304" height="30" width="40" /></a>
-<a href="https://instagram.com/am.ns63" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="am.ns63" height="30" width="40" /></a>
-</p>
