@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, mein Name ist Amir</h1>
 <h3 align="center">Ich bin ein angehender Full-Stack Developer</h3>
+(https://github.com/AmirOnCode/AmirOnCode/blob/main/hello-world.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amironcode&label=Profile%20views&color=0e75b6&style=flat" alt="amironcode" /> </p>
 
