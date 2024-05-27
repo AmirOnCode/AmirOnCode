@@ -15,8 +15,6 @@
 
 🔍 In meiner Freizeit? Da vertiefe ich mich gerne auf LeetCode. Datenstrukturen und Algorithmen faszinieren mich ungemein. 🧠
 
-Skills: Java / SQL / JS / HTML / CSS
-
 - 🔭 I’m currently working on Coders.Bay Ausbildung 
 - 🌱 I’m currently learning Java 
 - ⚡ Fun fact: I code with a rubber duck watching me
